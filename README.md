@@ -1,7 +1,7 @@
 # E-commerce-powerBI-dashboard
 # 📦 E-Commerce Order Insights Dashboard
 
-This project analyzes sales data from an e-commerce compan. The goal is to uncover top sales, regional performance, and sales target using an interactive Power BI dashboard.
+This project analyzes sales data from an e-commerce company. The goal is to uncover top sales, regional performance, and sales target using an interactive Power BI dashboard.
 
 ## 📌 Objectives
 - Identify top-performing regions
